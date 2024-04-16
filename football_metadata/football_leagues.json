@@ -1,0 +1,2082 @@
+{
+  "2kwbbcootiqqgmrzs6o5inle5": {
+    "id": "2kwbbcootiqqgmrzs6o5inle5",
+    "name": "Premier League",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/2kwbbcootiqqgmrzs6o5inle5.png"
+    }
+  },
+  "1r097lpxe0xn03ihb7wi98kao": {
+    "id": "1r097lpxe0xn03ihb7wi98kao",
+    "name": "Serie A",
+    "area": {
+      "name": "Italy"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/1r097lpxe0xn03ihb7wi98kao.png"
+    }
+  },
+  "34pl8szyvrbwcmfkuocjm3r6t": {
+    "id": "34pl8szyvrbwcmfkuocjm3r6t",
+    "name": "LaLiga",
+    "area": {
+      "name": "Spain"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/34pl8szyvrbwcmfkuocjm3r6t.png"
+    }
+  },
+  "6by3h89i2eykc341oz7lv1ddd": {
+    "id": "6by3h89i2eykc341oz7lv1ddd",
+    "name": "Bundesliga",
+    "area": {
+      "name": "Germany"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/6by3h89i2eykc341oz7lv1ddd.png"
+    }
+  },
+  "dm5ka0os1e3dxcp3vh05kmp33": {
+    "id": "dm5ka0os1e3dxcp3vh05kmp33",
+    "name": "Ligue 1",
+    "area": {
+      "name": "France"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/dm5ka0os1e3dxcp3vh05kmp33.png"
+    }
+  },
+  "287tckirbfj9nb8ar2k9r60vn": {
+    "id": "287tckirbfj9nb8ar2k9r60vn",
+    "name": "Major League Soccer",
+    "area": {
+      "name": "USA"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/287tckirbfj9nb8ar2k9r60vn.png"
+    }
+  },
+  "akmkihra9ruad09ljapsm84b3": {
+    "id": "akmkihra9ruad09ljapsm84b3",
+    "name": "Eredivisie",
+    "area": {
+      "name": "Netherlands"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/akmkihra9ruad09ljapsm84b3.png"
+    }
+  },
+  "xwnjb1az11zffwty3m6vn8y6": {
+    "id": "xwnjb1az11zffwty3m6vn8y6",
+    "name": "A-League Men",
+    "area": {
+      "name": "Australia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png"
+    }
+  },
+  "482ofyysbdbeoxauk19yg7tdt": {
+    "id": "482ofyysbdbeoxauk19yg7tdt",
+    "name": "Super Lig",
+    "area": {
+      "name": "Turkiye"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/482ofyysbdbeoxauk19yg7tdt.png"
+    }
+  },
+  "e21cf135btr8t3upw0vl6n6x0": {
+    "id": "e21cf135btr8t3upw0vl6n6x0",
+    "name": "Premiership",
+    "area": {
+      "name": "Scotland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/e21cf135btr8t3upw0vl6n6x0.png"
+    }
+  },
+  "2hsidwomhjsaaytdy9u5niyi4": {
+    "id": "2hsidwomhjsaaytdy9u5niyi4",
+    "name": "Liga MX",
+    "area": {
+      "name": "Mexico"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png"
+    }
+  },
+  "4zwgbb66rif2spcoeeol2motx": {
+    "id": "4zwgbb66rif2spcoeeol2motx",
+    "name": "First Division A",
+    "area": {
+      "name": "Belgium"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4wbzjcclyefma1ourvjsu4q2j.png"
+    }
+  },
+  "scf9p4y91yjvqvg5jndxzhxj": {
+    "id": "scf9p4y91yjvqvg5jndxzhxj",
+    "name": "Serie A",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "581t4mywybx21wcpmpykhyzr3": {
+    "id": "581t4mywybx21wcpmpykhyzr3",
+    "name": "Copa de la Liga Profesional",
+    "area": {
+      "name": "Argentina"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png"
+    }
+  },
+  "8yi6ejjd1zudcqtbn07haahg6": {
+    "id": "8yi6ejjd1zudcqtbn07haahg6",
+    "name": "Liga Portugal",
+    "area": {
+      "name": "Portugal"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png"
+    }
+  },
+  "8o5tv5viv4hy1qg9jp94k7ayb": {
+    "id": "8o5tv5viv4hy1qg9jp94k7ayb",
+    "name": "J. League",
+    "area": {
+      "name": "Japan"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png"
+    }
+  },
+  "29actv1ohj8r10kd9hu0jnb0n": {
+    "id": "29actv1ohj8r10kd9hu0jnb0n",
+    "name": "Superleague",
+    "area": {
+      "name": "Denmark"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5adf60vwiw2f2mibyq1k4ex7i.png"
+    }
+  },
+  "2ty8ihceabty8yddmu31iuuej": {
+    "id": "2ty8ihceabty8yddmu31iuuej",
+    "name": "Primera A",
+    "area": {
+      "name": "Colombia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6kby8rq1p01fg5ds38ckkrcs5.png"
+    }
+  },
+  "2wolc27r8z03itcvwp43e38c5": {
+    "id": "2wolc27r8z03itcvwp43e38c5",
+    "name": "Primera Division",
+    "area": {
+      "name": "Uruguay"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/286fwlvd6dzntv6ewv3cyvb0p.png"
+    }
+  },
+  "2y8bntiif3a9y6gtmauv30gt": {
+    "id": "2y8bntiif3a9y6gtmauv30gt",
+    "name": "Primera Division",
+    "area": {
+      "name": "Chile"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png"
+    }
+  },
+  "5c96g1zm7vo5ons9c42uy2w3r": {
+    "id": "5c96g1zm7vo5ons9c42uy2w3r",
+    "name": "Bundesliga",
+    "area": {
+      "name": "Austria"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/hcs1bd49qliqqity6o268jyt.png"
+    }
+  },
+  "722fdbecxzcq9788l6jqclzlw": {
+    "id": "722fdbecxzcq9788l6jqclzlw",
+    "name": "2. Bundesliga",
+    "area": {
+      "name": "Germany"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png"
+    }
+  },
+  "7hl0svs2hg225i2zud0g3xzp2": {
+    "id": "7hl0svs2hg225i2zud0g3xzp2",
+    "name": "Ekstraklasa",
+    "area": {
+      "name": "Poland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/27baqb7359ywdvsxxklx1kn11.png"
+    }
+  },
+  "e0lck99w8meo9qoalfrxgo33o": {
+    "id": "e0lck99w8meo9qoalfrxgo33o",
+    "name": "Super League",
+    "area": {
+      "name": "Switzerland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3bh70jgvc5mn58x0byjkuda17.png"
+    }
+  },
+  "c0r21rtokgnbtc0o2rldjmkxu": {
+    "id": "c0r21rtokgnbtc0o2rldjmkxu",
+    "name": "Super League",
+    "area": {
+      "name": "Greece"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6lpgd60z890no2v46zdecrcss.png"
+    }
+  },
+  "8ey0ww2zsosdmwr8ehsorh6t7": {
+    "id": "8ey0ww2zsosdmwr8ehsorh6t7",
+    "name": "Serie B",
+    "area": {
+      "name": "Italy"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png"
+    }
+  },
+  "1zcp6rnjil25rnsv1ttcz3dhx": {
+    "id": "1zcp6rnjil25rnsv1ttcz3dhx",
+    "name": "Kategoria Superiore",
+    "area": {
+      "name": "Albania"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/17zsm8shejejls2on1ffil3op.png"
+    }
+  },
+  "66nxwll8fur0rtp9q7wqaki1l": {
+    "id": "66nxwll8fur0rtp9q7wqaki1l",
+    "name": "Primera B Metropolitana",
+    "area": {
+      "name": "Argentina"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png"
+    }
+  },
+  "2tyo5z2kcb5eiv8u53ne72yn4": {
+    "id": "2tyo5z2kcb5eiv8u53ne72yn4",
+    "name": "Primera C",
+    "area": {
+      "name": "Argentina"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png"
+    }
+  },
+  "byu00jvt1j6csyv4y1lkt2fm2": {
+    "id": "byu00jvt1j6csyv4y1lkt2fm2",
+    "name": "Primera Nacional",
+    "area": {
+      "name": "Argentina"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png"
+    }
+  },
+  "9p3nnxhdjahfn8qswpzy8oyc3": {
+    "id": "9p3nnxhdjahfn8qswpzy8oyc3",
+    "name": "A-League Women",
+    "area": {
+      "name": "Australia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png"
+    }
+  },
+  "3428tckxcirwwh3o3jgc1m8ji": {
+    "id": "3428tckxcirwwh3o3jgc1m8ji",
+    "name": "Premier League",
+    "area": {
+      "name": "Azerbaijan"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/52sufqqq7vid3xa6iljx6obcz.png"
+    }
+  },
+  "af79lqrc0ntom74zq13ccjslo": {
+    "id": "af79lqrc0ntom74zq13ccjslo",
+    "name": "First Division B",
+    "area": {
+      "name": "Belgium"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4wbzjcclyefma1ourvjsu4q2j.png"
+    }
+  },
+  "ddbbqccied7l21mo4lr44sbcr": {
+    "id": "ddbbqccied7l21mo4lr44sbcr",
+    "name": "Ligue 1",
+    "area": {
+      "name": "Benin"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3o5wco7tkqgfmys9exmt5fo2h.png"
+    }
+  },
+  "56kbffapmubfiq7unbzc1re4n": {
+    "id": "56kbffapmubfiq7unbzc1re4n",
+    "name": "Paraense",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "btouq8t23agr62ij7e0ju5p6n": {
+    "id": "btouq8t23agr62ij7e0ju5p6n",
+    "name": "1. Division",
+    "area": {
+      "name": "Cyprus"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png"
+    }
+  },
+  "3za3jptdvgw580jjr9nhhhn6i": {
+    "id": "3za3jptdvgw580jjr9nhhhn6i",
+    "name": "2. Division",
+    "area": {
+      "name": "Cyprus"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png"
+    }
+  },
+  "bu1l7ckihyr0errxw61p0m05": {
+    "id": "bu1l7ckihyr0errxw61p0m05",
+    "name": "First League",
+    "area": {
+      "name": "Czechia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5md5tpwr2nmqao528prx43jr7.png"
+    }
+  },
+  "8k1xcsyvxapl4jlsluh3eomre": {
+    "id": "8k1xcsyvxapl4jlsluh3eomre",
+    "name": "1. Division",
+    "area": {
+      "name": "Egypt"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/42vt7mha0thcwd0ihw3p29x5i.png"
+    }
+  },
+  "dvk36kuhrsn5j3z5zgtd0hi4l": {
+    "id": "dvk36kuhrsn5j3z5zgtd0hi4l",
+    "name": "FA Cup",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "6vq8j5p3av14nr3iuyi4okhjt": {
+    "id": "6vq8j5p3av14nr3iuyi4okhjt",
+    "name": "WSL",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/6vq8j5p3av14nr3iuyi4okhjt.png"
+    }
+  },
+  "2aso72utuctat2ecs6nahjss6": {
+    "id": "2aso72utuctat2ecs6nahjss6",
+    "name": "Division 1",
+    "area": {
+      "name": "France"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png"
+    }
+  },
+  "dkarmrybx9vx10rg7cywumth0": {
+    "id": "dkarmrybx9vx10rg7cywumth0",
+    "name": "3. Liga",
+    "area": {
+      "name": "Germany"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png"
+    }
+  },
+  "4jg7he1n3rb5dniq6hf49xorq": {
+    "id": "4jg7he1n3rb5dniq6hf49xorq",
+    "name": "1. Division",
+    "area": {
+      "name": "Ghana"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2q2sw72utw5gu9t5y4knckwba.png"
+    }
+  },
+  "4k8p8nmee0yjb7j7177474sx6": {
+    "id": "4k8p8nmee0yjb7j7177474sx6",
+    "name": "Super League 2",
+    "area": {
+      "name": "Greece"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6lpgd60z890no2v46zdecrcss.png"
+    }
+  },
+  "ae1wva3zrzcp2zd15gpvsntg6": {
+    "id": "ae1wva3zrzcp2zd15gpvsntg6",
+    "name": "Liga Nacional",
+    "area": {
+      "name": "Guatemala"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6bw57gk867vfrep8b5e4ykh24.png"
+    }
+  },
+  "4rls982p5uzil6x30mhyhv9f3": {
+    "id": "4rls982p5uzil6x30mhyhv9f3",
+    "name": "1. Division",
+    "area": {
+      "name": "Hong Kong"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5mqvtybzlyttafefvps14mvt3.png"
+    }
+  },
+  "47s2kt0e8m444ftqvsrqa3bvq": {
+    "id": "47s2kt0e8m444ftqvsrqa3bvq",
+    "name": "NB I",
+    "area": {
+      "name": "Hungary"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1vy5vlux7mj2r7r9ktd71hhpo.png"
+    }
+  },
+  "beqqnubkv05mamuwvimeum015": {
+    "id": "beqqnubkv05mamuwvimeum015",
+    "name": "NB II",
+    "area": {
+      "name": "Hungary"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1vy5vlux7mj2r7r9ktd71hhpo.png"
+    }
+  },
+  "3oa9e03e7w9nr8kqwqc3tlqz9": {
+    "id": "3oa9e03e7w9nr8kqwqc3tlqz9",
+    "name": "Super League",
+    "area": {
+      "name": "India"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/pu2isxryiewd7pvejah6oqex.png"
+    }
+  },
+  "duuc1qczfnawwncru1ly6o66": {
+    "id": "duuc1qczfnawwncru1ly6o66",
+    "name": "Premier League",
+    "area": {
+      "name": "Iraq"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1uzblzx1s42jn6zk6hivjzby8.png"
+    }
+  },
+  "2xg0qvif1rh7du6wmk2eleku3": {
+    "id": "2xg0qvif1rh7du6wmk2eleku3",
+    "name": "Ligat HaAl",
+    "area": {
+      "name": "Israel"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4bnqn6mt5vyslpxfuqdrcmpgp.png"
+    }
+  },
+  "65ggsqdi6drpa4m8y3gkll25k": {
+    "id": "65ggsqdi6drpa4m8y3gkll25k",
+    "name": "Campionato Primavera",
+    "area": {
+      "name": "Italy"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png"
+    }
+  },
+  "81txfenlgw75nq3u2nfdkj92o": {
+    "id": "81txfenlgw75nq3u2nfdkj92o",
+    "name": "Serie A Femminile",
+    "area": {
+      "name": "Italy"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png"
+    }
+  },
+  "1zp1du9n4rj36p1ss9zbxtqfb": {
+    "id": "1zp1du9n4rj36p1ss9zbxtqfb",
+    "name": "Serie C",
+    "area": {
+      "name": "Italy"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png"
+    }
+  },
+  "2g6lybov5xk8rlb79ek8imri7": {
+    "id": "2g6lybov5xk8rlb79ek8imri7",
+    "name": "Serie D",
+    "area": {
+      "name": "Italy"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png"
+    }
+  },
+  "5z8v4mj6cjs9ex6hdrpourjzh": {
+    "id": "5z8v4mj6cjs9ex6hdrpourjzh",
+    "name": "J. League 2",
+    "area": {
+      "name": "Japan"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png"
+    }
+  },
+  "b1rveez5u792gess9w3e7v5le": {
+    "id": "b1rveez5u792gess9w3e7v5le",
+    "name": "J. League 3",
+    "area": {
+      "name": "Japan"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png"
+    }
+  },
+  "3n5046abeu3x482ds3jwda238": {
+    "id": "3n5046abeu3x482ds3jwda238",
+    "name": "L1 League",
+    "area": {
+      "name": "Japan"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png"
+    }
+  },
+  "7wssxdqi4xihseeam8grqa2b8": {
+    "id": "7wssxdqi4xihseeam8grqa2b8",
+    "name": "Premier League",
+    "area": {
+      "name": "Kenya"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7bj2q2zb0n47lb9g55dnvfr2s.png"
+    }
+  },
+  "5taraea6mqjjldg9zxswo825y": {
+    "id": "5taraea6mqjjldg9zxswo825y",
+    "name": "Premier League",
+    "area": {
+      "name": "Malta"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/52j1myzb4go3nqu8crtu7ulc1.png"
+    }
+  },
+  "7ut48s80k421xixh6ev5i6h62": {
+    "id": "7ut48s80k421xixh6ev5i6h62",
+    "name": "Liga MX Femenil",
+    "area": {
+      "name": "Mexico"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png"
+    }
+  },
+  "1eruend45vd20g9hbrpiggs5u": {
+    "id": "1eruend45vd20g9hbrpiggs5u",
+    "name": "Botola Pro",
+    "area": {
+      "name": "Morocco"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2xdcc39z1k79pnjbtn9x31wdh.png"
+    }
+  },
+  "8najqkluatpaxvqws78b9s17c": {
+    "id": "8najqkluatpaxvqws78b9s17c",
+    "name": "Elite 2",
+    "area": {
+      "name": "Morocco"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2xdcc39z1k79pnjbtn9x31wdh.png"
+    }
+  },
+  "1gwajyt0pk2jm5fx5mu36v114": {
+    "id": "1gwajyt0pk2jm5fx5mu36v114",
+    "name": "Eerste Divisie",
+    "area": {
+      "name": "Netherlands"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6hzi5pltnz67q4la8yli9qfv6.png"
+    }
+  },
+  "ac42gi3penartj88fe9l6plpk": {
+    "id": "ac42gi3penartj88fe9l6plpk",
+    "name": "NPFL",
+    "area": {
+      "name": "Nigeria"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png"
+    }
+  },
+  "8dn0w8zh7nbn2i904603eigwf": {
+    "id": "8dn0w8zh7nbn2i904603eigwf",
+    "name": "I Liga",
+    "area": {
+      "name": "Poland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/27baqb7359ywdvsxxklx1kn11.png"
+    }
+  },
+  "663a54fmymndjeev47qm7d3nf": {
+    "id": "663a54fmymndjeev47qm7d3nf",
+    "name": "II Liga",
+    "area": {
+      "name": "Poland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/27baqb7359ywdvsxxklx1kn11.png"
+    }
+  },
+  "4yzidekywejmxxp77gqmdgopg": {
+    "id": "4yzidekywejmxxp77gqmdgopg",
+    "name": "Liga 3",
+    "area": {
+      "name": "Portugal"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png"
+    }
+  },
+  "8sdpk4aerruf515yh76ezo7vi": {
+    "id": "8sdpk4aerruf515yh76ezo7vi",
+    "name": "Liga Portugal 2",
+    "area": {
+      "name": "Portugal"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png"
+    }
+  },
+  "89ovpy1rarewwzqvi30bfdr8b": {
+    "id": "89ovpy1rarewwzqvi30bfdr8b",
+    "name": "Superliga",
+    "area": {
+      "name": "Romania"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/17oj2qrzqlkhdjvazum10sx2i.png"
+    }
+  },
+  "2c63lkabcjzoiqavj24madt2d": {
+    "id": "2c63lkabcjzoiqavj24madt2d",
+    "name": "Campionato",
+    "area": {
+      "name": "San Marino"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/423ba8zqzgmze8xgruw9ggqck.png"
+    }
+  },
+  "3ww12jab49q8q8mk9avdwjqgk": {
+    "id": "3ww12jab49q8q8mk9avdwjqgk",
+    "name": "Super Liga",
+    "area": {
+      "name": "Serbia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5w4ve503bjdsshwx9ho6jxzx0.png"
+    }
+  },
+  "eslbqkckxibq88yjtkq6w8i05": {
+    "id": "eslbqkckxibq88yjtkq6w8i05",
+    "name": "Cup",
+    "area": {
+      "name": "South Africa"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png"
+    }
+  },
+  "avs3xposm3t9x1x2vzsoxzcbu": {
+    "id": "avs3xposm3t9x1x2vzsoxzcbu",
+    "name": "K-League 1",
+    "area": {
+      "name": "South Korea"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4vzpxtqkiwx0puygnmayr74di.png"
+    }
+  },
+  "5k620c7y6dlbmcm88dt3eb7t": {
+    "id": "5k620c7y6dlbmcm88dt3eb7t",
+    "name": "Liga F",
+    "area": {
+      "name": "Spain"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png"
+    }
+  },
+  "3is4bkgf3loxv9qfg3hm8zfqb": {
+    "id": "3is4bkgf3loxv9qfg3hm8zfqb",
+    "name": "Segunda Division",
+    "area": {
+      "name": "Spain"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png"
+    }
+  },
+  "cegl2ivkc25blcatxp4jmk1ec": {
+    "id": "cegl2ivkc25blcatxp4jmk1ec",
+    "name": "Segunda Federacion",
+    "area": {
+      "name": "Spain"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png"
+    }
+  },
+  "6g4vcneo8yvvf0f9cy38o3hy2": {
+    "id": "6g4vcneo8yvvf0f9cy38o3hy2",
+    "name": "1. Division",
+    "area": {
+      "name": "Syria"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3tsnzfkszhsktmhsmwar1tvp8.png"
+    }
+  },
+  "9z5643nd06afqu01ea2wt8y4g": {
+    "id": "9z5643nd06afqu01ea2wt8y4g",
+    "name": "Premier League",
+    "area": {
+      "name": "Tanzania"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3rramsla3ovuhxks28wq1kirb.png"
+    }
+  },
+  "f4jc2cc5nq7flaoptpi5ua4k4": {
+    "id": "f4jc2cc5nq7flaoptpi5ua4k4",
+    "name": "Ligue I",
+    "area": {
+      "name": "Tunisia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png"
+    }
+  },
+  "2o9svokc5s7diish3ycrzk7jm": {
+    "id": "2o9svokc5s7diish3ycrzk7jm",
+    "name": "1. Lig",
+    "area": {
+      "name": "Turkiye"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png"
+    }
+  },
+  "2nttcoriwf5co73vmz1vr8frm": {
+    "id": "2nttcoriwf5co73vmz1vr8frm",
+    "name": "2. Lig",
+    "area": {
+      "name": "Turkiye"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png"
+    }
+  },
+  "djkvh1luqdkdixpoe653lzixg": {
+    "id": "djkvh1luqdkdixpoe653lzixg",
+    "name": "NWSL",
+    "area": {
+      "name": "USA"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/djkvh1luqdkdixpoe653lzixg.png"
+    }
+  },
+  "c1d9p6b2e9zr5tqlzx3ktjplg": {
+    "id": "c1d9p6b2e9zr5tqlzx3ktjplg",
+    "name": "USL Championship",
+    "area": {
+      "name": "USA"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7hr2f89v44y65dyu9k92vprwn.png"
+    }
+  },
+  "7ntvbsyq31jnzoqoa8850b9b8": {
+    "id": "7ntvbsyq31jnzoqoa8850b9b8",
+    "name": "Championship",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/7ntvbsyq31jnzoqoa8850b9b8.png"
+    }
+  },
+  "3frp1zxrqulrlrnk503n6l4l": {
+    "id": "3frp1zxrqulrlrnk503n6l4l",
+    "name": "League One",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/3frp1zxrqulrlrnk503n6l4l.png"
+    }
+  },
+  "bgen5kjer2ytfp7lo9949t72g": {
+    "id": "bgen5kjer2ytfp7lo9949t72g",
+    "name": "League Two",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/bgen5kjer2ytfp7lo9949t72g.png"
+    }
+  },
+  "b5udgm9vakjqz8dcmy5b2g0xt": {
+    "id": "b5udgm9vakjqz8dcmy5b2g0xt",
+    "name": "National League",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "4w7x0s5gfs5abasphlha5de8k": {
+    "id": "4w7x0s5gfs5abasphlha5de8k",
+    "name": "Ligue 2",
+    "area": {
+      "name": "France"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png"
+    }
+  },
+  "8t2o4huu2e48ij23dxnl9w5qx": {
+    "id": "8t2o4huu2e48ij23dxnl9w5qx",
+    "name": "Championship",
+    "area": {
+      "name": "Scotland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png"
+    }
+  },
+  "6sxm2iln2w45ux498pty9miw8": {
+    "id": "6sxm2iln2w45ux498pty9miw8",
+    "name": "League One",
+    "area": {
+      "name": "Scotland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png"
+    }
+  },
+  "6321dlqv4ziuwqte4xpohijtw": {
+    "id": "6321dlqv4ziuwqte4xpohijtw",
+    "name": "League Two",
+    "area": {
+      "name": "Scotland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png"
+    }
+  },
+  "bockl24qpr7ryjl8b6obukga": {
+    "id": "bockl24qpr7ryjl8b6obukga",
+    "name": "National League North/South",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "78wml3z5wrfxe5iky50tiotgu": {
+    "id": "78wml3z5wrfxe5iky50tiotgu",
+    "name": "Northern Premier League",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "7dfd12g9pk1y688q8km7tyspy": {
+    "id": "7dfd12g9pk1y688q8km7tyspy",
+    "name": "Premier League U18",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "4pohvulrkgzx38eoqse6b5cdg": {
+    "id": "4pohvulrkgzx38eoqse6b5cdg",
+    "name": "I-League",
+    "area": {
+      "name": "India"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/pu2isxryiewd7pvejah6oqex.png"
+    }
+  },
+  "75i269i1ak43magshljadydrh": {
+    "id": "75i269i1ak43magshljadydrh",
+    "name": "Premiership",
+    "area": {
+      "name": "Northern Ireland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5euslv7jutsauoqt3o2lj9bvi.png"
+    }
+  },
+  "6jgwiu2gq3dllmrwt45pfdn2z": {
+    "id": "6jgwiu2gq3dllmrwt45pfdn2z",
+    "name": "Segunda Division",
+    "area": {
+      "name": "Uruguay"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/286fwlvd6dzntv6ewv3cyvb0p.png"
+    }
+  },
+  "c76z5d6j7dpi1e79tm8fpm39z": {
+    "id": "c76z5d6j7dpi1e79tm8fpm39z",
+    "name": "Premier League",
+    "area": {
+      "name": "Wales"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/26ilvvgth36hmq6lgq8cy5cb5.png"
+    }
+  },
+  "4c1nfi2j1m731hcay25fcgndq": {
+    "id": "4c1nfi2j1m731hcay25fcgndq",
+    "name": "Europa League",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/4c1nfi2j1m731hcay25fcgndq.png"
+    }
+  },
+  "c7b8o53flg36wbuevfzy3lb10": {
+    "id": "c7b8o53flg36wbuevfzy3lb10",
+    "name": "Europa Conference League",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/c7b8o53flg36wbuevfzy3lb10.png"
+    }
+  },
+  "59tpnfrwnvhnhzmnvfyug68hj": {
+    "id": "59tpnfrwnvhnhzmnvfyug68hj",
+    "name": "Copa Libertadores",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/59tpnfrwnvhnhzmnvfyug68hj.png"
+    }
+  },
+  "32n2r9bl6x90psj0wa7bfs6vq": {
+    "id": "32n2r9bl6x90psj0wa7bfs6vq",
+    "name": "Copa Sudamericana",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "1qd0wvt30rlswa4g6nu4na660": {
+    "id": "1qd0wvt30rlswa4g6nu4na660",
+    "name": "National",
+    "area": {
+      "name": "France"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png"
+    }
+  },
+  "3btdfgw79qiz3jmyfudovtbu2": {
+    "id": "3btdfgw79qiz3jmyfudovtbu2",
+    "name": "1. Division",
+    "area": {
+      "name": "Iran"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png"
+    }
+  },
+  "eu6kl6j2w2qg7dg1dlpzo20fc": {
+    "id": "eu6kl6j2w2qg7dg1dlpzo20fc",
+    "name": "Leumit League",
+    "area": {
+      "name": "Israel"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4bnqn6mt5vyslpxfuqdrcmpgp.png"
+    }
+  },
+  "e1kxdivp5g4cpldgpwvnzl1vv": {
+    "id": "e1kxdivp5g4cpldgpwvnzl1vv",
+    "name": "Ascenso MX",
+    "area": {
+      "name": "Mexico"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png"
+    }
+  },
+  "8v97rcbthsxmzqk4ufxws9mug": {
+    "id": "8v97rcbthsxmzqk4ufxws9mug",
+    "name": "Challenge League",
+    "area": {
+      "name": "Switzerland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3bh70jgvc5mn58x0byjkuda17.png"
+    }
+  },
+  "4oogyu6o156iphvdvphwpck10": {
+    "id": "4oogyu6o156iphvdvphwpck10",
+    "name": "Champions League",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/4oogyu6o156iphvdvphwpck10.png"
+    }
+  },
+  "e6rl4hongahbihxd3tpudespd": {
+    "id": "e6rl4hongahbihxd3tpudespd",
+    "name": "CONCACAF Champions Cup",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "bdtat25m14jy85y484z3e6lf": {
+    "id": "bdtat25m14jy85y484z3e6lf",
+    "name": "Copa Argentina",
+    "area": {
+      "name": "Argentina"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png"
+    }
+  },
+  "4aaa66sz94tnqiw08bqxsqwoc": {
+    "id": "4aaa66sz94tnqiw08bqxsqwoc",
+    "name": "Cup Nordeste",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "18izk5zx4t85y7sbpjk3rlr4n": {
+    "id": "18izk5zx4t85y7sbpjk3rlr4n",
+    "name": "Elite One",
+    "area": {
+      "name": "Cameroon"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4eb9feio6u267dd1jcwaf38mt.png"
+    }
+  },
+  "byhmntnl1b4lxw0zz21im3zkd": {
+    "id": "byhmntnl1b4lxw0zz21im3zkd",
+    "name": "Cup",
+    "area": {
+      "name": "Colombia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6kby8rq1p01fg5ds38ckkrcs5.png"
+    }
+  },
+  "f29s2t0c7fvvyx6mn8e5j8h4u": {
+    "id": "f29s2t0c7fvvyx6mn8e5j8h4u",
+    "name": "Super Cup",
+    "area": {
+      "name": "Saudi Arabia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/639nv0r2ixeusx4nzqyzb5iuq.png"
+    }
+  },
+  "6nm3h3xebzyrle00a2o87iopn": {
+    "id": "6nm3h3xebzyrle00a2o87iopn",
+    "name": "Highland/Lowland",
+    "area": {
+      "name": "Scotland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png"
+    }
+  },
+  "f39uq10c8xhg5e6rwwcf6lhgc": {
+    "id": "f39uq10c8xhg5e6rwwcf6lhgc",
+    "name": "Arabian Gulf League",
+    "area": {
+      "name": "UAE"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/13y072b531iotfuk9ll20xt4u.png"
+    }
+  },
+  "dv9x9sw2x99ty2r9ztl68vw7u": {
+    "id": "dv9x9sw2x99ty2r9ztl68vw7u",
+    "name": "Cup",
+    "area": {
+      "name": "Cyprus"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png"
+    }
+  },
+  "1klyfth8tl6lu6ra7k8zmy2n2": {
+    "id": "1klyfth8tl6lu6ra7k8zmy2n2",
+    "name": "Premier League",
+    "area": {
+      "name": "Uganda"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1j6yonplolalz6goyopv7xd1k.png"
+    }
+  },
+  "5vq1bl8h8dxdr34w0jaanokto": {
+    "id": "5vq1bl8h8dxdr34w0jaanokto",
+    "name": "Championship",
+    "area": {
+      "name": "Wales"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/26ilvvgth36hmq6lgq8cy5cb5.png"
+    }
+  },
+  "6wubmo7di3kdpflluf6s8c7vs": {
+    "id": "6wubmo7di3kdpflluf6s8c7vs",
+    "name": "Premier League",
+    "area": {
+      "name": "Ukraine"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/315w6fk6umfzf4qvba3t55u61.png"
+    }
+  },
+  "dzdh9f7vyvzpq3nmvl22dyx2h": {
+    "id": "dzdh9f7vyvzpq3nmvl22dyx2h",
+    "name": "SheBelieves Cup",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "87h32eza4zpxytxwtezfvzeji": {
+    "id": "87h32eza4zpxytxwtezfvzeji",
+    "name": "Liga Premier",
+    "area": {
+      "name": "Mexico"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png"
+    }
+  },
+  "53tknno09wqihmwxrqcuwq9sa": {
+    "id": "53tknno09wqihmwxrqcuwq9sa",
+    "name": "Championship",
+    "area": {
+      "name": "Northern Ireland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5euslv7jutsauoqt3o2lj9bvi.png"
+    }
+  },
+  "yv73ms6v1995b5wny16jcfi3": {
+    "id": "yv73ms6v1995b5wny16jcfi3",
+    "name": "Premier Soccer League",
+    "area": {
+      "name": "South Africa"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png"
+    }
+  },
+  "82wo38rqeizxlfjjhfjy4rx7u": {
+    "id": "82wo38rqeizxlfjjhfjy4rx7u",
+    "name": "1. Division",
+    "area": {
+      "name": "Bahrain"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4j3eg4ch3tdp2uh7kblm8yvvj.png"
+    }
+  },
+  "dy8zaksw5e9nwrs1p5ss4o1nu": {
+    "id": "dy8zaksw5e9nwrs1p5ss4o1nu",
+    "name": "2. Division",
+    "area": {
+      "name": "Egypt"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/42vt7mha0thcwd0ihw3p29x5i.png"
+    }
+  },
+  "117yqo02rs8dykkxpm274w3bd": {
+    "id": "117yqo02rs8dykkxpm274w3bd",
+    "name": "Liga 1",
+    "area": {
+      "name": "Indonesia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1zi2c00k6skx48tn692uem0n6.png"
+    }
+  },
+  "1txej2dzohnydl21zc9pgx6hy": {
+    "id": "1txej2dzohnydl21zc9pgx6hy",
+    "name": "Professional League",
+    "area": {
+      "name": "Oman"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7er8r20ewopkflfj679v1dol5.png"
+    }
+  },
+  "1fedahp0rws09tj451onten8r": {
+    "id": "1fedahp0rws09tj451onten8r",
+    "name": "AFC Champions League Elite",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/1fedahp0rws09tj451onten8r.png"
+    }
+  },
+  "57nu0wygurzkp6fuy5hhrtaa2": {
+    "id": "57nu0wygurzkp6fuy5hhrtaa2",
+    "name": "1. Division",
+    "area": {
+      "name": "Algeria"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1ayprcriqhb8iv10ch70clppu.png"
+    }
+  },
+  "bly7ema5au6j40i0grhl0pnub": {
+    "id": "bly7ema5au6j40i0grhl0pnub",
+    "name": "Primera B",
+    "area": {
+      "name": "Chile"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png"
+    }
+  },
+  "xaouuwuk8qyhv1libkeexwjh": {
+    "id": "xaouuwuk8qyhv1libkeexwjh",
+    "name": "Stars League",
+    "area": {
+      "name": "Qatar"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1evdpix889bnpu5wgh6ae7kng.png"
+    }
+  },
+  "ajxs0e0g6ryg5ol8qvw3evrcz": {
+    "id": "ajxs0e0g6ryg5ol8qvw3evrcz",
+    "name": "National First Division",
+    "area": {
+      "name": "South Africa"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png"
+    }
+  },
+  "4qjmo9aphtgpboin0pldiwzc9": {
+    "id": "4qjmo9aphtgpboin0pldiwzc9",
+    "name": "First National Division",
+    "area": {
+      "name": "Belgium"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4wbzjcclyefma1ourvjsu4q2j.png"
+    }
+  },
+  "civf31q1inxohs4a03y8reetf": {
+    "id": "civf31q1inxohs4a03y8reetf",
+    "name": "Primera Division",
+    "area": {
+      "name": "Costa Rica"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/48emauy3fucokp86skcs5alh8.png"
+    }
+  },
+  "bbajzna018c79opa1kl5kmkqo": {
+    "id": "bbajzna018c79opa1kl5kmkqo",
+    "name": "League Cup",
+    "area": {
+      "name": "Japan"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png"
+    }
+  },
+  "df1o8phtfy4dwhv6n7mmeedvw": {
+    "id": "df1o8phtfy4dwhv6n7mmeedvw",
+    "name": "Cup",
+    "area": {
+      "name": "South Korea"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4vzpxtqkiwx0puygnmayr74di.png"
+    }
+  },
+  "dexr6wlw3e339z88f1qr74wt6": {
+    "id": "dexr6wlw3e339z88f1qr74wt6",
+    "name": "Super League",
+    "area": {
+      "name": "Zambia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2dlu3zrfid7nl6ppmb04hjgot.png"
+    }
+  },
+  "1wwro3z1eb3fl601dju6inlc6": {
+    "id": "1wwro3z1eb3fl601dju6inlc6",
+    "name": "Liga Nacional",
+    "area": {
+      "name": "Honduras"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/56ftnqeq3x3j77uone8qm5ow6.png"
+    }
+  },
+  "5y0z0l2epprzbscvzsgldw8vu": {
+    "id": "5y0z0l2epprzbscvzsgldw8vu",
+    "name": "Division Profesional",
+    "area": {
+      "name": "Paraguay"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4snnlul02xmgkkb024q2bqyn9.png"
+    }
+  },
+  "5jd0k2txwnq69frs79eulba8j": {
+    "id": "5jd0k2txwnq69frs79eulba8j",
+    "name": "Taca de Portugal",
+    "area": {
+      "name": "Portugal"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png"
+    }
+  },
+  "ea0h6cf3bhl698hkxhpulh2zz": {
+    "id": "ea0h6cf3bhl698hkxhpulh2zz",
+    "name": "Saudi Pro League",
+    "area": {
+      "name": "Saudi Arabia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/639nv0r2ixeusx4nzqyzb5iuq.png"
+    }
+  },
+  "iu1vi94p4p28oozl1h9bvplr": {
+    "id": "iu1vi94p4p28oozl1h9bvplr",
+    "name": "Thai League",
+    "area": {
+      "name": "Thailand"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/71wqq15l0mvpl4lneayzzh44g.png"
+    }
+  },
+  "70excpe1synn9kadnbppahdn7": {
+    "id": "70excpe1synn9kadnbppahdn7",
+    "name": "World Cup",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/70excpe1synn9kadnbppahdn7.png"
+    }
+  },
+  "ejunkmfhjz9weugd2bqrkgobb": {
+    "id": "ejunkmfhjz9weugd2bqrkgobb",
+    "name": "1. Division",
+    "area": {
+      "name": "Andorra"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6kxfttvbfkg4ywupx6g9zc16o.png"
+    }
+  },
+  "5ixq8vcn9w12n74fuj6oj9lj7": {
+    "id": "5ixq8vcn9w12n74fuj6oj9lj7",
+    "name": "WSL Cup",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "1okhqh7yb76ftiukqzp3jlm5m": {
+    "id": "1okhqh7yb76ftiukqzp3jlm5m",
+    "name": "Copa por Mexico",
+    "area": {
+      "name": "Mexico"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png"
+    }
+  },
+  "3j81qr7yc4gdnakfwnxf95ovh": {
+    "id": "3j81qr7yc4gdnakfwnxf95ovh",
+    "name": "1. Division",
+    "area": {
+      "name": "Kuwait"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/70rn9hy1i32yu04uos65wvgs5.png"
+    }
+  },
+  "bqvy41un7sf86rbse9tv810x7": {
+    "id": "bqvy41un7sf86rbse9tv810x7",
+    "name": "League Cup",
+    "area": {
+      "name": "Portugal"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png"
+    }
+  },
+  "4nidzmunvpvxk1ir9b6m8mpay": {
+    "id": "4nidzmunvpvxk1ir9b6m8mpay",
+    "name": "Club Friendlies",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "3faz4auaxirmsh26ztmidb001": {
+    "id": "3faz4auaxirmsh26ztmidb001",
+    "name": "Premier League",
+    "area": {
+      "name": "Botswana"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4wpvgb16ehpymp85e16rbnufn.png"
+    }
+  },
+  "9rpro4x6j1xhkyijm18gkhmy4": {
+    "id": "9rpro4x6j1xhkyijm18gkhmy4",
+    "name": "National 2",
+    "area": {
+      "name": "France"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png"
+    }
+  },
+  "10x5pvhifwo4y7hs3fz9hf245": {
+    "id": "10x5pvhifwo4y7hs3fz9hf245",
+    "name": "Cup",
+    "area": {
+      "name": "Greece"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6lpgd60z890no2v46zdecrcss.png"
+    }
+  },
+  "55hcphd1ccc6eai1ms77460on": {
+    "id": "55hcphd1ccc6eai1ms77460on",
+    "name": "Champions League",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/55hcphd1ccc6eai1ms77460on.png"
+    }
+  },
+  "83ib9ygyuj24tov28t0ihv2le": {
+    "id": "83ib9ygyuj24tov28t0ihv2le",
+    "name": "Premier League",
+    "area": {
+      "name": "Libya"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/u42u510tspw3jy1ihkb3mdx9.png"
+    }
+  },
+  "cesdwwnxbc5fmajgroc0hqzy2": {
+    "id": "cesdwwnxbc5fmajgroc0hqzy2",
+    "name": "Friendlies",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "f47f3717z2vtpxfxrpdd4jl1x": {
+    "id": "f47f3717z2vtpxfxrpdd4jl1x",
+    "name": "EFL Trophy",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "481owj46t50pkw9k6qz1c4jm6": {
+    "id": "481owj46t50pkw9k6qz1c4jm6",
+    "name": "Cup",
+    "area": {
+      "name": "Israel"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4bnqn6mt5vyslpxfuqdrcmpgp.png"
+    }
+  },
+  "bt24epydr1s8zc2x5xb0n9noc": {
+    "id": "bt24epydr1s8zc2x5xb0n9noc",
+    "name": "Thai League 2",
+    "area": {
+      "name": "Thailand"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/71wqq15l0mvpl4lneayzzh44g.png"
+    }
+  },
+  "19q13y6ruzo0o84ipblcuouzs": {
+    "id": "19q13y6ruzo0o84ipblcuouzs",
+    "name": "Challenge Cup",
+    "area": {
+      "name": "Scotland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png"
+    }
+  },
+  "2hj3286pqov1g1g59k2t2qcgm": {
+    "id": "2hj3286pqov1g1g59k2t2qcgm",
+    "name": "FA Cup",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/2hj3286pqov1g1g59k2t2qcgm.png"
+    }
+  },
+  "cj30195079sdep2imeyt7y47p": {
+    "id": "cj30195079sdep2imeyt7y47p",
+    "name": "Toto Cup",
+    "area": {
+      "name": "Israel"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/4bnqn6mt5vyslpxfuqdrcmpgp.png"
+    }
+  },
+  "agpweohvn9tugnyl6ry4rhivp": {
+    "id": "agpweohvn9tugnyl6ry4rhivp",
+    "name": "Eredivisie",
+    "area": {
+      "name": "Netherlands"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6hzi5pltnz67q4la8yli9qfv6.png"
+    }
+  },
+  "9iqaslqco4yf8c1cmnqorope5": {
+    "id": "9iqaslqco4yf8c1cmnqorope5",
+    "name": "Super Cup",
+    "area": {
+      "name": "Albania"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/17zsm8shejejls2on1ffil3op.png"
+    }
+  },
+  "392slbmf1kdqlr6sd1ckt71rs": {
+    "id": "392slbmf1kdqlr6sd1ckt71rs",
+    "name": "FA Trophy",
+    "area": {
+      "name": "England"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png"
+    }
+  },
+  "6lrwyoy74oz0t5udrnmuyql6a": {
+    "id": "6lrwyoy74oz0t5udrnmuyql6a",
+    "name": "Premier League",
+    "area": {
+      "name": "Jamaica"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png"
+    }
+  },
+  "3n9mk5b2mxmq831wfmv6pu86i": {
+    "id": "3n9mk5b2mxmq831wfmv6pu86i",
+    "name": "Coupe de France",
+    "area": {
+      "name": "France"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png"
+    }
+  },
+  "486rhdgz7yc0sygziht7hje65": {
+    "id": "486rhdgz7yc0sygziht7hje65",
+    "name": "DFB-Pokal",
+    "area": {
+      "name": "Germany"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/486rhdgz7yc0sygziht7hje65.png"
+    }
+  },
+  "6694fff47wqxl10lrd9tb91f8": {
+    "id": "6694fff47wqxl10lrd9tb91f8",
+    "name": "Coppa Italia",
+    "area": {
+      "name": "Italy"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/6694fff47wqxl10lrd9tb91f8.png"
+    }
+  },
+  "73w1cmn2hulv1zybihv7mua26": {
+    "id": "73w1cmn2hulv1zybihv7mua26",
+    "name": "Maranhense",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "chfah95whw2m0sbdq6cvfac7q": {
+    "id": "chfah95whw2m0sbdq6cvfac7q",
+    "name": "FA Cup",
+    "area": {
+      "name": "Hungary"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1vy5vlux7mj2r7r9ktd71hhpo.png"
+    }
+  },
+  "2smaq6vx7pgwmkfkn15kp7ib": {
+    "id": "2smaq6vx7pgwmkfkn15kp7ib",
+    "name": "President's Cup",
+    "area": {
+      "name": "UAE"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/13y072b531iotfuk9ll20xt4u.png"
+    }
+  },
+  "47e4kf7on49r1j8tbl4lasp9p": {
+    "id": "47e4kf7on49r1j8tbl4lasp9p",
+    "name": "Paraibano",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "cr9dbk5nlt7b5uer4ft9h5k5p": {
+    "id": "cr9dbk5nlt7b5uer4ft9h5k5p",
+    "name": "Potiguar",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "4j8uz20iox42s82zs2d6zlswf": {
+    "id": "4j8uz20iox42s82zs2d6zlswf",
+    "name": "Sergipano",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "3z6xfyd3ovi5x09orlo4rmskx": {
+    "id": "3z6xfyd3ovi5x09orlo4rmskx",
+    "name": "FA Cup",
+    "area": {
+      "name": "Croatia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/37hlakrwxyuzovaeoo4sezusp.png"
+    }
+  },
+  "b3ufcd24wfnnd5j98ped6irfu": {
+    "id": "b3ufcd24wfnnd5j98ped6irfu",
+    "name": "FA Cup",
+    "area": {
+      "name": "Poland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/27baqb7359ywdvsxxklx1kn11.png"
+    }
+  },
+  "1ncmha8yglhyyhg6gtaujymqf": {
+    "id": "1ncmha8yglhyyhg6gtaujymqf",
+    "name": "OFB Cup",
+    "area": {
+      "name": "Austria"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/hcs1bd49qliqqity6o268jyt.png"
+    }
+  },
+  "145hkd59i6foieuwr4mwi6wlq": {
+    "id": "145hkd59i6foieuwr4mwi6wlq",
+    "name": "1. Division",
+    "area": {
+      "name": "Jordan"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5067agkwm6luzilwyfwth1dic.png"
+    }
+  },
+  "aho73e5udydy96iun3tkzdzsi": {
+    "id": "aho73e5udydy96iun3tkzdzsi",
+    "name": "V-League",
+    "area": {
+      "name": "Vietnam"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/747si8rr6manolqh31d1vz17q.png"
+    }
+  },
+  "cse5oqqt2pzfcy8uz6yz3tkbj": {
+    "id": "cse5oqqt2pzfcy8uz6yz3tkbj",
+    "name": "CAF Champions League",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "43029a6fvhou87zehkd5u8fyt": {
+    "id": "43029a6fvhou87zehkd5u8fyt",
+    "name": "European Championship",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "apdwh753fupxheygs8seahh7x": {
+    "id": "apdwh753fupxheygs8seahh7x",
+    "name": "Copa del Rey",
+    "area": {
+      "name": "Spain"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/apdwh753fupxheygs8seahh7x.png"
+    }
+  },
+  "u7lq7crm0r53b0xfmzz5rw5d": {
+    "id": "u7lq7crm0r53b0xfmzz5rw5d",
+    "name": "Alagoano",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "4fujcptop9waua3f96go6c93a": {
+    "id": "4fujcptop9waua3f96go6c93a",
+    "name": "Catarinense",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "dwteofckcdxa41bxw5rzalt23": {
+    "id": "dwteofckcdxa41bxw5rzalt23",
+    "name": "Cearense",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "bv2uk1yawdco66ife2wxrzazm": {
+    "id": "bv2uk1yawdco66ife2wxrzazm",
+    "name": "Gaucho",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "2udulamnbhyjqv4p4owbghmo8": {
+    "id": "2udulamnbhyjqv4p4owbghmo8",
+    "name": "Matogrossense",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "3gjh0wh5rfu4yrnu6gilln9wl": {
+    "id": "3gjh0wh5rfu4yrnu6gilln9wl",
+    "name": "Paranaense",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "515zp8193llecturbp2mgpv81": {
+    "id": "515zp8193llecturbp2mgpv81",
+    "name": "Pernambucano",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "6lwpjhktjhl9g7x2w7njmzva6": {
+    "id": "6lwpjhktjhl9g7x2w7njmzva6",
+    "name": "Serie A",
+    "area": {
+      "name": "Ecuador"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6pyj2bytt2osbjk69owzfehcg.png"
+    }
+  },
+  "b60nisd3qn427jm0hrg9kvmab": {
+    "id": "b60nisd3qn427jm0hrg9kvmab",
+    "name": "Allsvenskan",
+    "area": {
+      "name": "Sweden"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1z6l2c33w2kyz9rdefs1d68nb.png"
+    }
+  },
+  "4sdxtqddcbnckfbb59m1xdalj": {
+    "id": "4sdxtqddcbnckfbb59m1xdalj",
+    "name": "Baiano",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "b0dgf9ig6lyl992efpblsg3o5": {
+    "id": "b0dgf9ig6lyl992efpblsg3o5",
+    "name": "Carioca Taca Guanabara",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "craznzmzk01hn9gjbj3g3mjah": {
+    "id": "craznzmzk01hn9gjbj3g3mjah",
+    "name": "Mineiro",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "eo8sb5ohs5xw2s96ihfhbvgvy": {
+    "id": "eo8sb5ohs5xw2s96ihfhbvgvy",
+    "name": "Paulista A1",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "3iwftmprsznl6yribr11a8l9m": {
+    "id": "3iwftmprsznl6yribr11a8l9m",
+    "name": "Regionalliga",
+    "area": {
+      "name": "Germany"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png"
+    }
+  },
+  "bx57cmq1edfq53ckfk791supi": {
+    "id": "bx57cmq1edfq53ckfk791supi",
+    "name": "CAF Confederations Cup",
+    "area": {
+      "name": "International"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+    }
+  },
+  "76zmom26b12lbgotigwc9yijg": {
+    "id": "76zmom26b12lbgotigwc9yijg",
+    "name": "Super Cup",
+    "area": {
+      "name": "Turkiye"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png"
+    }
+  },
+  "5zr0b05eyx25km7z1k03ca9jx": {
+    "id": "5zr0b05eyx25km7z1k03ca9jx",
+    "name": "Serie B",
+    "area": {
+      "name": "Brazil"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png"
+    }
+  },
+  "8kt53kt3mfo29gldhkl05u25b": {
+    "id": "8kt53kt3mfo29gldhkl05u25b",
+    "name": "FA Cup",
+    "area": {
+      "name": "Scotland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png"
+    }
+  },
+  "by5nibd18nkt40t0j8a0j5yzx": {
+    "id": "by5nibd18nkt40t0j8a0j5yzx",
+    "name": "Primera B",
+    "area": {
+      "name": "Colombia"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/6kby8rq1p01fg5ds38ckkrcs5.png"
+    }
+  },
+  "7aarv28uhxre2vot3v7b6s9ek": {
+    "id": "7aarv28uhxre2vot3v7b6s9ek",
+    "name": "Cup",
+    "area": {
+      "name": "Vietnam"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/747si8rr6manolqh31d1vz17q.png"
+    }
+  },
+  "4x4vwsyz29sfgvvy1qt0l7sxm": {
+    "id": "4x4vwsyz29sfgvvy1qt0l7sxm",
+    "name": "Cup",
+    "area": {
+      "name": "Egypt"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/42vt7mha0thcwd0ihw3p29x5i.png"
+    }
+  },
+  "2z7257m7hj58zuxcjrsg4erzc": {
+    "id": "2z7257m7hj58zuxcjrsg4erzc",
+    "name": "Bundesliga",
+    "area": {
+      "name": "Germany"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png"
+    }
+  },
+  "24uts34wjguq7pj6bc9qexmej": {
+    "id": "24uts34wjguq7pj6bc9qexmej",
+    "name": "League Cup",
+    "area": {
+      "name": "Northern Ireland"
+    },
+    "image": {
+      "url": "https://cdn.sportfeeds.io/flags/areas/50/5euslv7jutsauoqt3o2lj9bvi.png"
+    }
+  }
+}
